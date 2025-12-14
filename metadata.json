@@ -1,0 +1,7 @@
+{
+  "name": "SwimEvo - Natação Divertida",
+  "description": "Um app gamificado para iniciantes na natação. Acompanhe sua evolução, receba feedbacks divertidos com IA e organize seus treinos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
